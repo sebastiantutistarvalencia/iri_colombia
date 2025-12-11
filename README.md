@@ -1,4 +1,4 @@
-# Indice de Irregularidad en Colombia
+# Indice de Irregularidad en Colombia - SECOP
 El objetivo de este estudio es estimar el índice promedio de riesgo de irregularidades en la contratación pública por departamento y modalidad de contratación en Colombia (2020-2024), mediante un diseño de muestreo estratificado con estimación por dominios, a partir de los datos de SECOP.
 
 Población objetivo: Todos los procesos de contratación pública adjudicados registrados en SECOP durante 2020-2024. Población Total: N = 583.198 contratos.
